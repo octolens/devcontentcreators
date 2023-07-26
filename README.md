@@ -1,4 +1,4 @@
-# Developer Content Creators 🎥
+# Developer Content Creators ✍️🎥
 A directory of 240+ creators that make content for developers.
 
 ## About the directory
