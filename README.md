@@ -8,10 +8,13 @@ A directory of 240+ creators that make content for developers, including attribu
 - Social Profiles
 - Estimated reach (across all platforms)
 
-You can find directory in a [public AirTable](https://go.crowd.dev/devcontentcreators-repo).
+You can find the directory in a [public AirTable](https://go.crowd.dev/devcontentcreators-repo).
+
+
+
 
 ## Edit list
-If you want to submit a creator or remove yourself from the list, please open an issue.
+If you want to submit a creator or remove yourself from the list, please [open an issue](https://github.com/CrowdDotDev/devcontentcreators/issues/new).
 
 ---
 The directory is maintained by [crowd.dev](https://www.crowd.dev/).
