@@ -10,10 +10,11 @@ A directory of 240+ creators that make content for developers, including attribu
 
 You can find the directory in a [public AirTable](https://go.crowd.dev/devcontentcreators-repo).
 
-[<img src="https://github.com/CrowdDotDev/devcontentcreators/assets/41432658/eeda7424-b45f-456c-9809-bdcd9abaa8aa">](https://go.crowd.dev/devcontentcreators-repo)
+[![Dev Content Creators](https://github.com/CrowdDotDev/devcontentcreators/assets/41432658/eeda7424-b45f-456c-9809-bdcd9abaa8aa)](https://go.crowd.dev/devcontentcreators-repo)
 
 
-## Edit list
+
+## How to edit
 If you want to submit a creator or remove yourself from the list, please [open an issue](https://github.com/CrowdDotDev/devcontentcreators/issues/new).
 
 ---
