@@ -10,7 +10,7 @@ A directory of 240+ creators that make content for developers, including attribu
 
 You can find the directory in a [public AirTable](https://go.crowd.dev/devcontentcreators-repo).
 
-[<img src="[http://www.google.com.au/images/nav_logo7.png](https://github.com/CrowdDotDev/devcontentcreators/assets/41432658/eeda7424-b45f-456c-9809-bdcd9abaa8aa)">]([http://google.com.au/](https://go.crowd.dev/devcontentcreators-repo))
+[<img src="https://github.com/CrowdDotDev/devcontentcreators/assets/41432658/eeda7424-b45f-456c-9809-bdcd9abaa8aa">](https://go.crowd.dev/devcontentcreators-repo)
 
 
 ## Edit list
