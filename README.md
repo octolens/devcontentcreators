@@ -1,6 +1,5 @@
 # Developer Content Creators
 A directory of 240+ creators that make content for developers, including attributes like:
-
 - Name
 - Bio
 - Content topics
@@ -8,7 +7,7 @@ A directory of 240+ creators that make content for developers, including attribu
 - Social Profiles
 - Estimated reach (across all platforms)
 
-You can find the directory in a [public AirTable](https://go.crowd.dev/devcontentcreators-repo).
+You can find the directory in a [public AirTable](https://go.crowd.dev/devcontentcreators-repo). If you find this directory valuable, please feel free to leave a star! ⭐️
 
 [![Dev Content Creators](https://github.com/CrowdDotDev/devcontentcreators/assets/41432658/eeda7424-b45f-456c-9809-bdcd9abaa8aa)](https://go.crowd.dev/devcontentcreators-repo)
 
